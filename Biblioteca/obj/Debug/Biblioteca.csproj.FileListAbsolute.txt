@@ -1,0 +1,118 @@
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\csc.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\csi.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Biblioteca.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\EntityFramework.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Net.Http.Formatting.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Http.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Http.WebHost.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Webpages.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\EntityFramework.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Webpages.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Net.Http.Formatting.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Http.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\bin\System.Web.Http.WebHost.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Teste 1\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\csc.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\csi.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Biblioteca.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\EntityFramework.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\EntityFramework.SqlServer.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Net.Http.Formatting.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Http.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Http.WebHost.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Webpages.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\EntityFramework.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\EntityFramework.SqlServer.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Webpages.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Net.Http.Formatting.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Http.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\bin\System.Web.Http.WebHost.xml
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Fernando Mamprin\Desktop\HBSIS - Teste\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "Biblioteca";
+}
+
+<div ng-controller="AngLivroController" class="container">
+    <div style="text-align:center;">
+        <h2 class="h2" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Controle de Livros da Biblioteca</h2>
+    </div>
+    <h3 class="h3">
+        <i style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+            Lista de Livros
+        </i>
+    </h3>
+    <div style="overflow-y:auto; height:270px;" ng-show="divLista">
+        <input type="text" ng-model="procurar" class="form-control input-sm " placeholder="Procurar na Lista" style="width: 30%;" />
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Cod. Livro</th>
+                    <th>Nome do Livro</th>
+                    <th>Autor</th>
+                    <th>Editora</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="livro in Livros|filter:procurar">
+                    <td>{{livro.IdLivro}}</td>
+                    <td>{{livro.NomeLivro}}</td>
+                    <td>{{livro.Autor}}</td>
+                    <td>{{livro.Editora}}</td>
+                    <td>
+                        <span ng-click="editarLivro(livro)" class="btn-sm btn-primary btn">Alterar</span>
+                        <span ng-click="deletarLivro(livro)" class="btn-sm btn-danger btn">Excluir</span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <br />
+    <div ng-show="divVazio">
+        <p class="h5">
+            <b>
+                <i>Não foram encontrados livros cadastrados, por favor clique em Adicionar Livro.</i>
+            </b>
+        </p>
+    </div>
+    <br />
+    <span ng-click="AdicionarLivroDiv()" class="btn btn-success">
+        Adicionar Livro
+    </span>
+    <br />
+    <form name="eventForm" ng-show="divLivros">
+        <div class="panel-heading">
+            <h4>
+                <i style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">{{Action}} Livros</i>
+            </h4>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-labell">Nome do Livro</label>
+            <div class="col-sm-5">
+                <input type="text" ng-model="NomeLivro" class="form-control input-sm" ng-required="true" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Autor</label>
+            <div class="col-sm-5">
+                <input type="text" ng-model="Autor" class="form-control input-sm" ng-required="true" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label ">Editora</label>
+            <div class="col-sm-5">
+                <input type="text" ng-model="Editora" class="form-control input-sm" ng-required="true" />
+            </div>
+        </div>
+        <div class="form-group row">
+
+            <input type="button" class="btn btn-success  " value="Salvar" ng-click="AdicionarAtualizarLivro()" ng-disabled="eventForm.$invalid" />
+            <input type="button" class="btn btn-danger " value="Cancelar" ng-click="Cancel()" />
+        </div>
+    </form>
+</div>

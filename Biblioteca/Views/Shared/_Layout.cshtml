@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html ng-app="AngLivroModel">
+<head>
+    <title>@ViewBag.Title - Consulta de Livros da Biblioteca</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/AngModel.js"></script>
+    <script src="~/Scripts/AngController.js"></script>
+    <script src="~/Scripts/AngServices.js"></script>
+</head>
+<body>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <div>
+        <footer class="panel-footer " id="footer" style="position:absolute; bottom:0;width:100%;">
+            <p>&copy; @DateTime.Now.Year - Biblioteca </p>
+        </footer>
+    </div>
+</body>
+</html>
